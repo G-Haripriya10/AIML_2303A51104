@@ -10,3 +10,4 @@ Lab 07; Introduction to Python Libraries-Numpy
 Lab 08; Introduction to Python Libraries-Numpy
 Lab 09; Introduction to Python Libraries-Numpy
 Lab 10; Introduction to Python Libraries-Numpy
+Artificial Intlligance and Machine Learning Lab Jupyter Notebooks
